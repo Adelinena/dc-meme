@@ -1,0 +1,21 @@
+{
+  "storage": {
+    "seed": 4963,
+    "wheat": 2,
+    "potato": 406,
+    "melon": 620,
+    "orange": 0,
+    "marijuana": 7
+  },
+  "uang": 1100,
+  "embedMessageIds": {
+    "Mevelyn": {
+      "storage": "1403822284837486723",
+      "uang": ""
+    },
+    "Pfarm": {
+      "storage": "1403822286896890058",
+      "uang": ""
+    }
+  }
+}
